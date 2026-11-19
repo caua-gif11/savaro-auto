@@ -1,5 +1,5 @@
 {
-  "name": "brothers-auto-pecas",
+  "name": "save-car-funilaria",
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -10,10 +10,9 @@
   },
   "dependencies": {
     "@vitejs/plugin-react": "latest",
-    "vite": "latest",
+    "lucide-react": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "lucide-react": "latest"
-  },
-  "devDependencies": {}
+    "vite": "latest"
+  }
 }
